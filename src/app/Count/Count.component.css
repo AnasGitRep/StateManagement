@@ -1,0 +1,12 @@
+.centered-div {
+    border: 1px solid black;
+    position: fixed; /* or absolute, depending on your layout */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+div button{
+    padding: 10px;
+    margin: 10px;
+}
